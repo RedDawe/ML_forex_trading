@@ -1,2 +1,2 @@
 # ML_forex_trading
-It is what it is
+It's not what it's not
